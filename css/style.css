@@ -145,7 +145,10 @@ nav .nav-link{
 }
 #footer .row{
     margin: 1rem auto;
-    width: 25%;
+    width: 35%;
+}
+#footer .col{
+    padding: 0;
 }
 @media only screen and (max-width: 1350px) {
     #title{
